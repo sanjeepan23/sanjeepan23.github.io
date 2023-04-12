@@ -5,7 +5,15 @@ body {
     color: #595959;
     /* font-family: "Lucida Console", "Courier New", monospace; */
     font-family: 'Nunito Sans';
-    font-size: 14px;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0em;
+}
+
+.dark-mode {
+    background-color: #15202b;
+    color: white;
 }
 
 h1,
