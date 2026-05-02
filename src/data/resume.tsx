@@ -90,8 +90,8 @@ export const DATA = {
       location: "Remote",
       title: "Machine Learning Engineer",
       logoUrl: "/h2o.svg",
-      start: "Aug 2022",
-      end: "Aug 2024",
+      start: "Jul 2023",
+      end: "Apr 2026",
       description:
         "Core engineer developing enterprise Large Language Models (LLMs). Created a signature detection and verification system using PyTorch, currently used by Australia's largest bank processing 2 million documents daily. Built a scalable, distributed inference pipeline with in-house MOJO model.",
     },
@@ -103,7 +103,7 @@ export const DATA = {
       title: "Machine Learning Engineer — Intern",
       logoUrl: "/h2o.svg",
       start: "Dec 2021",
-      end: "Jul 2022",
+      end: "Jun 2023",
       description:
         "Implemented a machine learning model to predict credit scores using non-conventional data, achieving 15% better accuracy than the existing model.",
     },
