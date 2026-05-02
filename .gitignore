@@ -1,2 +1,8 @@
 **/.DS_Store
 venv/
+node_modules/
+.next/
+out/
+.content-collections/
+*.tsbuildinfo
+next-env.d.ts
