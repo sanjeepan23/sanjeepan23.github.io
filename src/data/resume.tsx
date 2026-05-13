@@ -93,7 +93,7 @@ export const DATA = {
       start: "Jul 2023",
       end: "Apr 2026",
       description:
-        "Core engineer developing enterprise Large Language Models (LLMs). Created a signature detection and verification system using PyTorch, currently used by Australia's largest bank processing 2 million documents daily. Built a scalable, distributed inference pipeline with in-house MOJO model.",
+        "Working with enterprise Large Language Models (LLMs).",
     },
     {
       company: "H2O.ai",
@@ -105,7 +105,7 @@ export const DATA = {
       start: "Dec 2021",
       end: "Jun 2023",
       description:
-        "Implemented a machine learning model to predict credit scores using non-conventional data, achieving 15% better accuracy than the existing model.",
+        "Working with enterprise Large Language Models (LLMs).",
     },
     {
       company: "ExentAI",
