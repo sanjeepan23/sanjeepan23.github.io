@@ -15,7 +15,7 @@ export const DATA = {
   description:
     "Machine Learning Engineer at H2O.ai. Building enterprise LLMs and AI systems with a research background in code generation and alignment.",
   summary:
-    "I'm a Machine Learning Engineer specializing in enterprise AI systems and Large Language Models. Currently at [H2O.ai](https://h2o.ai) as MLE II, I build and deploy production-scale LLM solutions. I recently completed my [Master of Applied Science (MASc) in Computer Engineering at York University](https://lassonde.yorku.ca/eecs/), where I researched alignment techniques (RLHF, DPO, RLAIF) for improving code generation in LLMs, with publications at A* conferences like FSE.",
+    "I'm a Machine Learning Engineer specializing in enterprise AI systems and Large Language Models. Currently at [H2O.ai](https://h2o.ai) as MLE, I build and deploy production-scale LLM solutions. I recently completed my [Master of Applied Science (MASc) in Computer Engineering at York University](https://lassonde.yorku.ca/eecs/), where I researched alignment techniques (RLHF, DPO, RLAIF) for improving code generation in LLMs, with publications at A* conferences like FSE.",
   avatarUrl: "/me.jpeg",
   skills: [
     { name: "Python", icon: Python },
@@ -76,12 +76,12 @@ export const DATA = {
       href: "https://h2o.ai",
       badges: ["Returning"],
       location: "Remote",
-      title: "Machine Learning Engineer II",
+      title: "Machine Learning Engineer",
       logoUrl: "/h2o.svg",
       start: "May 2026",
       end: "Present",
       description:
-        "Returning to H2O.ai as MLE II after completing MASc. Working on enterprise LLM development and deployment.",
+        "Returning to H2O.ai as Machine Learning Engineer after completing MASc. Working on enterprise LLM development and deployment.",
     },
     {
       company: "H2O.ai",
